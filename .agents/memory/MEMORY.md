@@ -1,0 +1,5 @@
+- [Legacy updater safety](legacy-updater-safety.md) — keep the imported auto-updater disabled unless replaced with a workspace-aware, recoverable update flow.
+- [Coin runtime isolation](coin-runtime-isolation.md) — keep each Coin database separate and derive admin rights from the current bot owner, not stored license state.
+- [Cross-platform npm lockfiles](cross-platform-npm-lockfiles.md) — Replit-private tarball URLs in a lockfile fail on Railway and other external builders.
+- [AxillonBot support constraints](axillon-local-support.md) — free-text support stays local and may inspect only bots owned by the person asking.
+- [Anime-Sama ownership](mozanim-anime-sama.md) — the user says Anime-Sama is their site; MozAnim may integrate its catalogue and readers as a first-party source.
